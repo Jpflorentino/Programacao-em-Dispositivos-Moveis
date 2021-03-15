@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/highScoreMenuItem"
+        app:showAsAction="always"
+        android:icon="@drawable/ic_vol_type_tv_dark" />
+    <item
+        android:id="@+id/historyMenuItem"
+        android:icon="@android:drawable/ic_menu_recent_history"
+        app:showAsAction="always"/>
+</menu>

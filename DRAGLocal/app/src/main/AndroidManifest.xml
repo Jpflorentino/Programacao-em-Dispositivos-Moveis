@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.g13.DRAG">
+
+    <uses-permission android:name="android.permission.INTERNET"/> <!-- So we can make http requests-->
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission
+        android:name="android.permission.FOREGROUND_SERVICE" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:theme="@style/AppTheme"
+        android:name = "com.g13.DRAG.local.GameApplication">
+        <activity android:name="com.g13.DRAG.distribuido.game.ResultsActivityDistributed" />
+        <activity android:name="com.g13.DRAG.distribuido.game.GameActivity" />
+        <activity android:name="com.g13.DRAG.distribuido.list.ChallengesListActivity" />
+        <activity android:name="com.g13.DRAG.distribuido.create.CreateChallengeActivity" />
+        <activity android:name="com.g13.DRAG.HighScores.list.HighScoresListActivity"></activity>
+        <activity android:name="com.g13.DRAG.local.ResultsActivity"></activity>
+        <activity android:name="com.g13.DRAG.history.HistoryActivity"></activity>
+        <activity android:name=".local.ShowResultsActivity" />
+        <activity android:name="com.g13.DRAG.local.PlayActivity" />
+        <activity android:name="com.g13.DRAG.local.ModeChoiceActivity">
+            <intent-filter>
+            <action android:name="android.intent.action.MAIN" />
+            <category android:name="android.intent.category.LAUNCHER" />
+        </intent-filter>
+        </activity>
+        <activity android:name="com.g13.DRAG.local.MainActivity"/>
+    </application>
+
+</manifest>

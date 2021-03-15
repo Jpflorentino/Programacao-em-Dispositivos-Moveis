@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "198703460935",
+    "project_id": "drag-g13",
+    "storage_bucket": "drag-g13.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:198703460935:android:3696c76eb912d2affaf762",
+        "android_client_info": {
+          "package_name": "com.g13.DRAG"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "198703460935-fameh8ks13bsp3p1fi85f3hsg2gmei4r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGs6ye1bEmdtfGQPBPRN7V9duC6t__2oM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "198703460935-fameh8ks13bsp3p1fi85f3hsg2gmei4r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

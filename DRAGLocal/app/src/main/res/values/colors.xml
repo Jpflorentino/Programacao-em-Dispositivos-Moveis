@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#354751</color>
+    <color name="colorPrimaryDark">#29363D</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="previewPatternColor">#89D83D</color>
+    <color name="guessPatternColor">#75CF28</color>
+
+    <color name="list_item_background">#FFFFFF</color>
+    <color name="list_item_border">#edf0f6</color>
+    <color name="list_item_background_selected">#5EA1A3A3</color>
+    <color name="list_item_border_selected">#6F7070</color>
+</resources>

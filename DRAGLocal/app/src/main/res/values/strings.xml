@@ -1,0 +1,71 @@
+<resources>
+    <string name="app_name" translatable="false">DRAG</string>
+
+    <!-- Game Results -->
+    <string name="proceed">Proceed</string>
+    <string name="results">Results</string>
+    <string name="next_round">Next Round</string>
+    <string name="newFirstWord">New first word</string>
+    <string name="NewGame">New Game</string>
+    <string name="NoInput">No input</string>
+    <string name="gotPoints">The word survived the round! Player 1 has x point(s)</string>
+    <string name="hasntGotPoints">The word did not survive the round! Player 1 has x point(s)</string>
+    <string name="history">History</string>
+    <string name="hs" translatable="false">HS</string>
+    <string name="history_top_text">FirstWord: word ; Score = score</string>
+    <string name="turnTextResult">Turn x</string>
+
+    <!-- Game Screen -->
+    <string name="Round">Round</string>
+    <string name="PlayersHint">Min. 5 Players</string>
+    <string name="RoundsHint">Min. 1 round</string>
+    <string name="setWordHint">Choose a word</string>
+    <string name="TurnCounter" translatable="false">x/y</string>
+    <string name="Player">Player</string>
+    <string name="x" translatable="false">x</string>
+    <string name="drawSomething">You need to draw something!</string>
+    <string name="writeSomething">You need to write something!</string>
+    <string name="turnText" translatable="false">x/y</string>
+
+    <!-- Choose mode screen -->
+    <string name="local">Local</string>
+    <string name="online">High scores</string>
+    <string name="choose_the_mode_you_want_to_play_on">Welcome to DRAG</string>
+    <string name="onlineButton" translatable="false">Online</string>
+    <string name="fetch">Fetching the first word, please wait</string>
+
+    <!-- Local start game -->
+    <string name="saveGame">High Score</string>
+    <string name="playerName">Player</string>
+    <string name="firstWord">First Word</string>
+    <string name="alertMessage">Non even player number, the next player draws</string>
+    <string name="Players">Players</string>
+    <string name="Rounds">Rounds</string>
+    <string name="Play">Play</string>
+    <string name="Group">Group 13 LEIRT51D</string>
+    <string name="InvalidParameters">Invalid Parameters</string>
+
+    <!-- Create challenge screen -->
+    <string name="create_challenge_title">Create Challenge</string>
+    <string name="create_challenge_prompt_challenger_name">Name</string>
+    <string name="create_challenge_prompt_message">Message</string>
+    <string name="create_challenge_prompt_rounds">Total Rounds</string>
+    <string name="create_challenge_prompt_players">Total Players</string>
+    <string name="create_challenge_button_label">Post challenge</string>
+    <string name="create_challenge_button_label_in_short">Post it</string>
+    <string name="error_creating_challenge">Could not create challenge.</string>
+    <string name="game_screen_title_distributed_challenger_waiting">Waiting for other players</string>
+    <string name="parameterError">Invalid Parameters(Min. 5 Players, Min. 1 Round)</string>
+
+    <!-- Game list screen -->
+    <string name="list_screen_title">Challenges</string>
+    <string name="list_create_challenge_button_label">New Challenge</string>
+    <string name="list_menu_update_label">Refresh</string>
+    <string name="error_getting_list">Could not fetch challenges list</string>
+    <string name="error_accepting_challenge">Could not accept challenge</string>
+    <string name="accept_challenge_dialog_title">Accept %s\'s challenge?</string>
+    <string name="accept_challenge_dialog_ok" translatable="false">OK</string>
+    <string name="accept_challenge_dialog_cancel">Cancel</string>
+    <string name="loading">Loading…</string>
+
+</resources>

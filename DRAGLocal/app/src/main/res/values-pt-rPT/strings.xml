@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">DRAG</string>
+    <string name="Players">Jogadores</string>
+    <string name="Rounds">Rondas</string>
+    <string name="Play">Jogar</string>
+    <string name="Group">Grupo 13 LEIRT51D</string>
+    <string name="Round">Ronda</string>
+    <string name="PlayersHint">Min. 5 Jogadores</string>
+    <string name="RoundsHint">Min. 5 Rondas</string>
+    <string name="setWordHint">Escolha uma palavra</string>
+    <string name="Player">Jogador</string>
+    <string name="InvalidParameters">Parâmetros inválidos</string>
+    <string name="alertMessage">Número de jogadores ímpar, passar o bloco ao próximo jogador</string>
+    <string name="proceed">Proceder</string>
+    <string name="drawSomething">O desenho não pode estar em branco!</string>
+    <string name="writeSomething">A palavra correspondente não pode estar em branco!</string>
+    <string name="results">Resultados</string>
+    <string name="next_round">Proxima Ronda</string>
+    <string name="newFirstWord">Nova Palavra</string>
+    <string name="NewGame">Novo Jogo</string>
+    <string name="NoInput">Sem palavra</string>
+    <string name="gotPoints">A palavra sobreviveu à ronda! O jogador 1 tem x ponto(s)</string>
+    <string name="hasntGotPoints">A palavra não sobreviveu à ronda! O jogador 1 tem x ponto(s)</string>
+    <string name="history">Histórico</string>
+    <string name="history_top_text">Palavra inicial: word ; Pontuação = score</string>
+    <string name="local">Local</string>
+    <string name="online">Pontuações</string>
+    <string name="choose_the_mode_you_want_to_play_on">Escolha o modo em quer quer jogar:</string>
+    <string name="turnTextResult">Turno x</string>
+
+
+    <string name="fetch">A escolher a palavra, aguarde</string>
+    <string name="saveGame">Pontuação Guardada</string>
+    <string name="playerName">Jogador</string>
+    <string name="firstWord">Primeira palavra</string>
+
+    <!-- Create challenge screen -->
+    <string name="create_challenge_title">Criar Desafio</string>
+    <string name="create_challenge_prompt_challenger_name">Nome</string>
+    <string name="create_challenge_prompt_message">Descrição</string>
+    <string name="create_challenge_prompt_rounds">Nº de Rondas</string>
+    <string name="create_challenge_prompt_players">Nº de Jogadores</string>
+    <string name="create_challenge_button_label">Publicar Desafio</string>
+    <string name="create_challenge_button_label_in_short">Publicar</string>
+    <string name="error_creating_challenge">Não foi possível criar desafio</string>
+    <string name="game_screen_title_distributed_challenger_waiting">À espera de jogadores</string>
+    <string name="parameterError">Parametros inválidos(Min. 5 Jogadores, Min. 1 Rounda)</string>
+
+    <!-- Game list screen -->
+    <string name="list_screen_title">Desafios</string>
+    <string name="list_create_challenge_button_label">Novo Desafio</string>
+    <string name="list_menu_update_label">Atualizar</string>
+    <string name="error_getting_list">Não foi possível obter a lista</string>
+    <string name="error_accepting_challenge">Não foi possível aceitar o desafio</string>
+    <string name="accept_challenge_dialog_title">Aceitar o desafio de  %s\?</string>
+    <string name="accept_challenge_dialog_cancel">Cancelar</string>
+    <string name="loading">a carregar…</string>
+</resources>
